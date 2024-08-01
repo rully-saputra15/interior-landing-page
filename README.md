@@ -6,12 +6,12 @@
 
 ### Cara Install
 
-- npm i
+```bash
+npm i
+```
 
 ## Cara Jalankan
 
-- npm vite
-
 ```bash
-
+npm vite
 ```
